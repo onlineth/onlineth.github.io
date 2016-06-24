@@ -1,0 +1,40 @@
+@font-face {
+	font-family: Geosans;
+	src: url("../fonts/GeosansLight.ttf");
+}
+h1 {
+	font-family: Overpass, sans-serif;
+	font-size: 68px;
+	font-weight: 100;
+	margin-top: 21px;
+}
+p {
+	margin-bottom: 15px;
+	font-size: 40px;
+	font-weight: 700;
+	font-family: "Geosans";
+}
+.vertical-center {
+	margin-top: 3%;
+}
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 600px;
+	text-align: center;
+}
+.img-circle {
+	border-radius: 50%;
+}
+body {
+	background: url('../images/background.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.jumbotron, .container-fluid .jumbotron {
+	padding-top: 48px;
+	background-color: rgba(255, 255, 255, 0.53);
+	color: inherit;
+}
