@@ -1,6 +1,4 @@
-#Force www:
+#Force non-www:
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^(www\.)(.+) [OR]
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} ^(www\.)?(.+)
-RewriteRule ^ https://onlineth.com [R=301,L]
+RewriteCond %{HTTP_HOST} ^(www\.)(.*) [NC]
+RewriteRule (.*) https://onlineth.com [L,R=301]
