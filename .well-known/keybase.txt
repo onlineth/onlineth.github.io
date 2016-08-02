@@ -1,0 +1,51 @@
+https://keybase.io/online
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://onlineth.js.org
+  * I am online (https://keybase.io/online) on keybase.
+  * I have a public key ASDo-GFiwvzyY928Nj2zq6R8gtL8_EJQ_5Yr1rkh0h2AlQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018a91da9a6688b30922e09fe9228d9aadb711aee35f81b8604a359676cfe77a530a",
+            "host": "keybase.io",
+            "kid": "0120e8f86162c2fcf263ddbc363db3aba47c82d2fcfc4250ff962bd6b921d21d80950a",
+            "uid": "f6fc84c9f21c24907d6bee6eec38ca19",
+            "username": "online"
+        },
+        "service": {
+            "hostname": "onlineth.js.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470149764,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470149655,
+        "hash": "fdf97deb5713c39ba5c4ae079933ec6c750fe75c0c427bbd04de9022ffa371940f51d66ffd11fed024f8e894aaea970e0f8795edd6ae620e775bbeee57b49b42",
+        "seqno": 554260
+    },
+    "prev": "9f6801137ff772805f8ee012beae16310baa57b9127ef3aee386577008bf68d6",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6PhhYsL88mPdvDY9s6ukfILS/PxCUP+WK9a5IdIdgJUKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOGE5MWRhOWE2Njg4YjMwOTIyZTA5ZmU5MjI4ZDlhYWRiNzExYWVlMzVmODFiODYwNGEzNTk2NzZjZmU3N2E1MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZThmODYxNjJjMmZjZjI2M2RkYmMzNjNkYjNhYmE0N2M4MmQyZmNmYzQyNTBmZjk2MmJkNmI5MjFkMjFkODA5NTBhIiwidWlkIjoiZjZmYzg0YzlmMjFjMjQ5MDdkNmJlZTZlZWMzOGNhMTkiLCJ1c2VybmFtZSI6Im9ubGluZSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoib25saW5ldGguanMub3JnIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzAxNDk3NjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDE0OTY1NSwiaGFzaCI6ImZkZjk3ZGViNTcxM2MzOWJhNWM0YWUwNzk5MzNlYzZjNzUwZmU3NWMwYzQyN2JiZDA0ZGU5MDIyZmZhMzcxOTQwZjUxZDY2ZmZkMTFmZWQwMjRmOGU4OTRhYWVhOTcwZTBmODc5NWVkZDZhZTYyMGU3NzViYmVlZTU3YjQ5YjQyIiwic2Vxbm8iOjU1NDI2MH0sInByZXYiOiI5ZjY4MDExMzdmZjc3MjgwNWY4ZWUwMTJiZWFlMTYzMTBiYWE1N2I5MTI3ZWYzYWVlMzg2NTc3MDA4YmY2OGQ2Iiwic2Vxbm8iOjI3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAUJRYb4PNJoIOTd9QwWgmf68ZCGGIQhQehhwbWYzNHRcb9USCTG+rFVlKPNqK4tt46BI52rIIg9gcZnKadksAioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCZYFGfjSdkWw1yfR/PnCD88/H52aNzAn3yR4kj+yhcDaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/online
