@@ -25,7 +25,8 @@
 					<h1>onlineth</h1>
 					<h2>Thomas Hein</h2>
 					<br>
-					<a href="mailto:onlineth@yandex.com" class="btn btn-success btn-lg"><i class="fa fa-envelope"></i></a>
+					<noscript><h6>Sorry, you need JavaScript to see my email address</h6><br></noscript>
+					<a href="#" id="email" class="btn btn-success btn-lg"><i class="fa fa-envelope"></i></a>
 					<a href="https://github.com/onlineth" class="btn btn-success btn-lg"><i class="fa fa-github-square"></i></a>
 					<a href="https://www.linkedin.com/in/tmhein" class="btn btn-success btn-lg"><i class="fa fa-linkedin-square"></i></a>
 					<a href="https://www.paypal.me/TomHein/" class="btn btn-success btn-lg"><i class="fa fa-paypal" aria-hidden="true"></i></a>
@@ -47,6 +48,28 @@
 			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 			ga('create', 'UA-91022608-2', 'auto');
 			ga('send', 'pageview');
+		</script>
+		<script type="text/javascript" language="javascript">
+			// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+			// Random encryption key feature coded by Andrew Moulden
+			// This code is freeware provided these four comment lines remain intact
+			// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+			{ coded = "SfJ4PH@JKAIKkSf.YJ4"
+			  key = "9whJN5teUKGL0c1O4yl6df3RVSkgavXzYb2rEATsjixBpqoP7FuZnWM8CDHmIQ"
+			  shift=coded.length
+			  link=""
+			  for (i=0; i<coded.length; i++) {
+			    if (key.indexOf(coded.charAt(i))==-1) {
+			      ltr = coded.charAt(i)
+			      link += (ltr)
+			    }
+			    else {     
+			      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+			      link += (key.charAt(ltr))
+			    }
+			  }
+			}
+			$('#email').attr("href", 'mailto:'+link)
 		</script>
 	</body>
 </html>
