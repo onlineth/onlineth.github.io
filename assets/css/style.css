@@ -25,6 +25,7 @@ p {
 }
 .img-circle {
 	border-radius: 50%;
+	width: 50%;
 }
 body {
 	background: url('../images/background.png') no-repeat center center fixed;
